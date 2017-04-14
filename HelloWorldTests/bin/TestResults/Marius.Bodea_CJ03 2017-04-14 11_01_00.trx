@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TestRun id="13e19a1d-fd54-4c73-9465-ea6f6037805d" name="Marius.Bodea@CJ03 2017-04-14 11:01:00" runUser="QUBIZ\Marius.Bodea" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <TestSettings name="Default Test Settings" id="eadae7fd-0f30-4d49-8a92-7fdb7e0336fd">
+    <Execution>
+      <TestTypeSpecific />
+      <AgentRule name="Execution Agents">
+      </AgentRule>
+    </Execution>
+    <Deployment runDeploymentRoot="Marius.Bodea_CJ03 2017-04-14 11_01_00" />
+    <Properties />
+  </TestSettings>
+  <Times creation="2017-04-14T11:01:00.6045645+03:00" queuing="2017-04-14T11:01:01.2299220+03:00" start="2017-04-14T11:01:01.2961264+03:00" finish="2017-04-14T11:01:01.7450885+03:00" />
+  <ResultSummary outcome="Completed">
+    <Counters total="1" executed="1" passed="1" error="0" failed="0" timeout="0" aborted="0" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" completed="0" inProgress="0" pending="0" />
+  </ResultSummary>
+  <TestDefinitions>
+    <UnitTest name="TestProgramOutput" storage="debug\helloworldtests.dll" id="ab0522a8-4d3c-a233-0062-b162056b5520">
+      <Execution id="8cfe5a7b-02aa-4746-8234-2c356ec5e8f6" />
+      <TestMethod codeBase="C:/Users/marius.bodea/Documents/Visual Studio 2017/Projects/HelloWorld/HelloWorldTests/bin/Debug/HelloWorldTests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=15.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="HelloWorldTests.Test, HelloWorldTests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="TestProgramOutput" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestLists>
+    <TestList name="Results Not in a List" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="All Loaded Results" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <TestEntries>
+    <TestEntry testId="ab0522a8-4d3c-a233-0062-b162056b5520" executionId="8cfe5a7b-02aa-4746-8234-2c356ec5e8f6" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <Results>
+    <UnitTestResult executionId="8cfe5a7b-02aa-4746-8234-2c356ec5e8f6" testId="ab0522a8-4d3c-a233-0062-b162056b5520" testName="TestProgramOutput" computerName="CJ03" duration="00:00:00.0152059" startTime="2017-04-14T11:01:01.3922147+03:00" endTime="2017-04-14T11:01:01.7060425+03:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="8cfe5a7b-02aa-4746-8234-2c356ec5e8f6">
+    </UnitTestResult>
+  </Results>
+</TestRun>
