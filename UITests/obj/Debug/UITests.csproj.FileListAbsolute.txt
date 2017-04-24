@@ -1,0 +1,17 @@
+c:\users\marius.bodea\documents\visual studio 2017\Projects\HelloWorld\UITests\obj\Debug\UITests.csprojResolveAssemblyReference.cache
+c:\users\marius.bodea\documents\visual studio 2017\Projects\HelloWorld\UITests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+c:\users\marius.bodea\documents\visual studio 2017\Projects\HelloWorld\UITests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+c:\users\marius.bodea\documents\visual studio 2017\Projects\HelloWorld\UITests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+c:\users\marius.bodea\documents\visual studio 2017\Projects\HelloWorld\UITests\bin\Debug\Drivers\chromedriver.exe
+c:\users\marius.bodea\documents\visual studio 2017\Projects\HelloWorld\UITests\bin\Debug\UITests.dll
+c:\users\marius.bodea\documents\visual studio 2017\Projects\HelloWorld\UITests\bin\Debug\UITests.pdb
+c:\users\marius.bodea\documents\visual studio 2017\Projects\HelloWorld\UITests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+c:\users\marius.bodea\documents\visual studio 2017\Projects\HelloWorld\UITests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+c:\users\marius.bodea\documents\visual studio 2017\Projects\HelloWorld\UITests\bin\Debug\WebDriver.dll
+c:\users\marius.bodea\documents\visual studio 2017\Projects\HelloWorld\UITests\bin\Debug\WebDriver.Support.dll
+c:\users\marius.bodea\documents\visual studio 2017\Projects\HelloWorld\UITests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+c:\users\marius.bodea\documents\visual studio 2017\Projects\HelloWorld\UITests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+c:\users\marius.bodea\documents\visual studio 2017\Projects\HelloWorld\UITests\bin\Debug\WebDriver.xml
+c:\users\marius.bodea\documents\visual studio 2017\Projects\HelloWorld\UITests\bin\Debug\WebDriver.Support.xml
+c:\users\marius.bodea\documents\visual studio 2017\Projects\HelloWorld\UITests\obj\Debug\UITests.dll
+c:\users\marius.bodea\documents\visual studio 2017\Projects\HelloWorld\UITests\obj\Debug\UITests.pdb
