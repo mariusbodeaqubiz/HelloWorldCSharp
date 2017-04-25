@@ -13,5 +13,11 @@ namespace UITests.Tests
 
             Assert.IsTrue(_driver.Title == "Google");
         }
+
+        [TestMethod]
+        public void Foo()
+        {
+            Assert.IsTrue(true);
+        }
     }
 }

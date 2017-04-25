@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TestRun id="927f9366-40e2-4531-8462-2982f9fe7aca" name="Marius.Bodea@CJ03 2017-04-24 12:29:54" runUser="QUBIZ\Marius.Bodea" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <TestSettings name="Default Test Settings" id="915208cd-8415-4147-a9f4-d6049bb0baed">
+    <Execution>
+      <TestTypeSpecific />
+      <AgentRule name="Execution Agents">
+      </AgentRule>
+    </Execution>
+    <Deployment runDeploymentRoot="Marius.Bodea_CJ03 2017-04-24 12_29_54" />
+    <Properties />
+  </TestSettings>
+  <Times creation="2017-04-24T12:29:54.5492420+03:00" queuing="2017-04-24T12:29:54.8404413+03:00" start="2017-04-24T12:29:54.9114904+03:00" finish="2017-04-24T12:29:55.3738078+03:00" />
+  <ResultSummary outcome="Failed">
+    <Counters total="2" executed="2" error="0" failed="2" timeout="0" aborted="0" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" passed="0" completed="0" inProgress="0" pending="0" />
+  </ResultSummary>
+  <TestDefinitions>
+    <UnitTest name="GoogleTest" storage="uitests\bin\debug\uitests.dll" id="59e5f7c9-f60c-57bc-c0a5-e7a0b67d801f">
+      <Execution id="816493f4-0271-4f2b-a403-bcfb6639be3c" />
+      <TestMethod codeBase="C:/Users/marius.bodea/Documents/visual studio 2017/Projects/HelloWorld/UITests/bin/Debug/UITests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=15.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="UITests.Tests.GoogleTests, UITests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="GoogleTest" />
+    </UnitTest>
+    <UnitTest name="Foo" storage="uitests\bin\debug\uitests.dll" id="fe85619f-7254-9c9a-8ec0-d92babd89793">
+      <Execution id="9f0381cc-f9fb-474b-89aa-58a81bbd76ae" />
+      <TestMethod codeBase="C:/Users/marius.bodea/Documents/visual studio 2017/Projects/HelloWorld/UITests/bin/Debug/UITests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=15.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="UITests.Tests.GoogleTests, UITests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="Foo" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestLists>
+    <TestList name="Results Not in a List" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="All Loaded Results" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <TestEntries>
+    <TestEntry testId="fe85619f-7254-9c9a-8ec0-d92babd89793" executionId="9f0381cc-f9fb-474b-89aa-58a81bbd76ae" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="59e5f7c9-f60c-57bc-c0a5-e7a0b67d801f" executionId="816493f4-0271-4f2b-a403-bcfb6639be3c" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <Results>
+    <UnitTestResult executionId="9f0381cc-f9fb-474b-89aa-58a81bbd76ae" testId="fe85619f-7254-9c9a-8ec0-d92babd89793" testName="Foo" computerName="CJ03" duration="00:00:00.0672342" startTime="2017-04-24T12:29:54.9565213+03:00" endTime="2017-04-24T12:29:55.3277762+03:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Failed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="9f0381cc-f9fb-474b-89aa-58a81bbd76ae">
+      <Output>
+        <ErrorInfo>
+          <Message>Initialization method UITests.Tests.GoogleTests.BrowserInitialization threw exception. OpenQA.Selenium.DriverServiceNotFoundException: OpenQA.Selenium.DriverServiceNotFoundException: The file Drivers\chromedriver.exe does not exist. The driver can be downloaded at http://chromedriver.storage.googleapis.com/index.html.</Message>
+          <StackTrace>    at OpenQA.Selenium.DriverService..ctor(String servicePath, Int32 port, String driverServiceExecutableName, Uri driverServiceDownloadUrl)
+   at OpenQA.Selenium.Chrome.ChromeDriverService..ctor(String executablePath, String executableFileName, Int32 port)
+   at OpenQA.Selenium.Chrome.ChromeDriver..ctor(String chromeDriverDirectory, ChromeOptions options)
+   at UITests.Tests.BaseTest.BrowserInitialization() in c:\users\marius.bodea\documents\visual studio 2017\Projects\HelloWorld\UITests\Tests\BaseTest.cs:line 23
+</StackTrace>
+        </ErrorInfo>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="816493f4-0271-4f2b-a403-bcfb6639be3c" testId="59e5f7c9-f60c-57bc-c0a5-e7a0b67d801f" testName="GoogleTest" computerName="CJ03" duration="00:00:00.0018406" startTime="2017-04-24T12:29:55.3317786+03:00" endTime="2017-04-24T12:29:55.3357820+03:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Failed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="816493f4-0271-4f2b-a403-bcfb6639be3c">
+      <Output>
+        <ErrorInfo>
+          <Message>Initialization method UITests.Tests.GoogleTests.BrowserInitialization threw exception. OpenQA.Selenium.DriverServiceNotFoundException: OpenQA.Selenium.DriverServiceNotFoundException: The file Drivers\chromedriver.exe does not exist. The driver can be downloaded at http://chromedriver.storage.googleapis.com/index.html.</Message>
+          <StackTrace>    at OpenQA.Selenium.DriverService..ctor(String servicePath, Int32 port, String driverServiceExecutableName, Uri driverServiceDownloadUrl)
+   at OpenQA.Selenium.Chrome.ChromeDriverService..ctor(String executablePath, String executableFileName, Int32 port)
+   at OpenQA.Selenium.Chrome.ChromeDriver..ctor(String chromeDriverDirectory, ChromeOptions options)
+   at UITests.Tests.BaseTest.BrowserInitialization() in c:\users\marius.bodea\documents\visual studio 2017\Projects\HelloWorld\UITests\Tests\BaseTest.cs:line 23
+</StackTrace>
+        </ErrorInfo>
+      </Output>
+    </UnitTestResult>
+  </Results>
+</TestRun>

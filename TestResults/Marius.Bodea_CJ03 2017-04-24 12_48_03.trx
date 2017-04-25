@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TestRun id="ac687012-d329-44ce-ab9c-7739927f8e65" name="Marius.Bodea@CJ03 2017-04-24 12:48:03" runUser="QUBIZ\Marius.Bodea" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <TestSettings name="Default Test Settings" id="01cacccf-2695-438a-b2fa-6865e67df932">
+    <Execution>
+      <TestTypeSpecific />
+      <AgentRule name="Execution Agents">
+      </AgentRule>
+    </Execution>
+    <Deployment runDeploymentRoot="Marius.Bodea_CJ03 2017-04-24 12_48_03" />
+    <Properties />
+  </TestSettings>
+  <Times creation="2017-04-24T12:48:03.9069262+03:00" queuing="2017-04-24T12:48:04.2011272+03:00" start="2017-04-24T12:48:04.2716742+03:00" finish="2017-04-24T12:48:13.6665736+03:00" />
+  <ResultSummary outcome="Completed">
+    <Counters total="2" executed="2" passed="2" error="0" failed="0" timeout="0" aborted="0" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" completed="0" inProgress="0" pending="0" />
+  </ResultSummary>
+  <TestDefinitions>
+    <UnitTest name="GoogleTest" storage="uitests\bin\debug\uitests.dll" id="59e5f7c9-f60c-57bc-c0a5-e7a0b67d801f">
+      <Execution id="666922a5-17a3-4ef8-a0c3-1bd0a8316ce7" />
+      <TestMethod codeBase="C:/Users/marius.bodea/Documents/visual studio 2017/Projects/HelloWorld/UITests/bin/Debug/UITests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=15.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="UITests.Tests.GoogleTests, UITests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="GoogleTest" />
+    </UnitTest>
+    <UnitTest name="Foo" storage="uitests\bin\debug\uitests.dll" id="fe85619f-7254-9c9a-8ec0-d92babd89793">
+      <Execution id="621c3b88-75b2-43ff-89e1-9411aca790e6" />
+      <TestMethod codeBase="C:/Users/marius.bodea/Documents/visual studio 2017/Projects/HelloWorld/UITests/bin/Debug/UITests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=15.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="UITests.Tests.GoogleTests, UITests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="Foo" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestLists>
+    <TestList name="Results Not in a List" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="All Loaded Results" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <TestEntries>
+    <TestEntry testId="fe85619f-7254-9c9a-8ec0-d92babd89793" executionId="621c3b88-75b2-43ff-89e1-9411aca790e6" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="59e5f7c9-f60c-57bc-c0a5-e7a0b67d801f" executionId="666922a5-17a3-4ef8-a0c3-1bd0a8316ce7" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <Results>
+    <UnitTestResult executionId="621c3b88-75b2-43ff-89e1-9411aca790e6" testId="fe85619f-7254-9c9a-8ec0-d92babd89793" testName="Foo" computerName="CJ03" duration="00:00:02.5595888" startTime="2017-04-24T12:48:04.3162045+03:00" endTime="2017-04-24T12:48:07.1826544+03:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="621c3b88-75b2-43ff-89e1-9411aca790e6">
+    </UnitTestResult>
+    <UnitTestResult executionId="666922a5-17a3-4ef8-a0c3-1bd0a8316ce7" testId="59e5f7c9-f60c-57bc-c0a5-e7a0b67d801f" testName="GoogleTest" computerName="CJ03" duration="00:00:06.4348815" startTime="2017-04-24T12:48:07.1876575+03:00" endTime="2017-04-24T12:48:13.6245457+03:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="666922a5-17a3-4ef8-a0c3-1bd0a8316ce7">
+    </UnitTestResult>
+  </Results>
+</TestRun>
