@@ -1,0 +1,15 @@
+C:\Users\marius.bodea\Documents\Visual Studio 2017\Projects\HelloWorld\HelloWorldTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\marius.bodea\Documents\Visual Studio 2017\Projects\HelloWorld\HelloWorldTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\marius.bodea\Documents\Visual Studio 2017\Projects\HelloWorld\HelloWorldTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\marius.bodea\Documents\Visual Studio 2017\Projects\HelloWorld\HelloWorldTests\bin\Debug\HelloWorldTests.dll
+C:\Users\marius.bodea\Documents\Visual Studio 2017\Projects\HelloWorld\HelloWorldTests\bin\Debug\HelloWorldTests.pdb
+C:\Users\marius.bodea\Documents\Visual Studio 2017\Projects\HelloWorld\HelloWorldTests\bin\Debug\HelloWorld.exe
+C:\Users\marius.bodea\Documents\Visual Studio 2017\Projects\HelloWorld\HelloWorldTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\marius.bodea\Documents\Visual Studio 2017\Projects\HelloWorld\HelloWorldTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\marius.bodea\Documents\Visual Studio 2017\Projects\HelloWorld\HelloWorldTests\bin\Debug\HelloWorld.pdb
+C:\Users\marius.bodea\Documents\Visual Studio 2017\Projects\HelloWorld\HelloWorldTests\bin\Debug\HelloWorld.exe.config
+C:\Users\marius.bodea\Documents\Visual Studio 2017\Projects\HelloWorld\HelloWorldTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\marius.bodea\Documents\Visual Studio 2017\Projects\HelloWorld\HelloWorldTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\marius.bodea\Documents\Visual Studio 2017\Projects\HelloWorld\HelloWorldTests\obj\Debug\HelloWorldTests.csprojResolveAssemblyReference.cache
+C:\Users\marius.bodea\Documents\Visual Studio 2017\Projects\HelloWorld\HelloWorldTests\obj\Debug\HelloWorldTests.dll
+C:\Users\marius.bodea\Documents\Visual Studio 2017\Projects\HelloWorld\HelloWorldTests\obj\Debug\HelloWorldTests.pdb
