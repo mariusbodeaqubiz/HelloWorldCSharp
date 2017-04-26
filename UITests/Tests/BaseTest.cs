@@ -1,6 +1,7 @@
 ﻿using Microsoft.VisualStudio.TestTools.UnitTesting;
 using OpenQA.Selenium;
 using OpenQA.Selenium.Chrome;
+using OpenQA.Selenium.Firefox;
 using System;
 using System.Collections.Generic;
 using System.IO;
@@ -27,7 +28,9 @@ namespace UITests.Tests
             DirectoryInfo directory = new DirectoryInfo(currentDir);
             Console.WriteLine(directory.ToString() + "\\Drivers\\");
 
-            _driver = new ChromeDriver(options);
+            // _driver = new ChromeDriver("Drivers", options);
+
+            _driver = new FirefoxDriver();
 
             // In case we want to maximize the window size
             //_driver.Manage().Window.Maximize();
