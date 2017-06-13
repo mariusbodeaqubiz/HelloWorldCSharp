@@ -19,21 +19,25 @@ namespace UITests.Tests
         [TestInitialize]
         public void BrowserInitialization()
         {
+            //var options = new ChromeOptions();
+            //options.AddArgument("--disable-extensions");
+            //options.AddArgument("--incognito");
+
+            //// Set relative path for chromedriver.exe
+            //string currentDir = Environment.CurrentDirectory;
+            //DirectoryInfo directory = new DirectoryInfo(currentDir);
+            //Console.WriteLine(directory.ToString() + "\\Drivers\\");
+
+
             var options = new ChromeOptions();
             options.AddArgument("--disable-extensions");
             options.AddArgument("--incognito");
+            _driver = new ChromeDriver("Drivers", options);
 
-            // Set relative path for chromedriver.exe
-            string currentDir = Environment.CurrentDirectory;
-            DirectoryInfo directory = new DirectoryInfo(currentDir);
-            Console.WriteLine(directory.ToString() + "\\Drivers\\");
-
-            // _driver = new ChromeDriver("Drivers", options);
-
-            _driver = new FirefoxDriver();
+            //_driver = new FirefoxDriver();
 
             // In case we want to maximize the window size
-            //_driver.Manage().Window.Maximize();
+            // _driver.Manage().Window.Maximize();
         }
 
         [TestCleanup]

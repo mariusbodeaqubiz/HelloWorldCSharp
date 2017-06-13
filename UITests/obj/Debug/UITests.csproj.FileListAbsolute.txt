@@ -2,7 +2,6 @@ C:\Users\marius.bodea\documents\visual studio 2017\Projects\HelloWorld\UITests\c
 C:\Users\marius.bodea\documents\visual studio 2017\Projects\HelloWorld\UITests\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
 C:\Users\marius.bodea\documents\visual studio 2017\Projects\HelloWorld\UITests\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
 C:\Users\marius.bodea\documents\visual studio 2017\Projects\HelloWorld\UITests\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
-C:\Users\marius.bodea\documents\visual studio 2017\Projects\HelloWorld\UITests\Drivers\chromedriver.exe
 C:\Users\marius.bodea\documents\visual studio 2017\Projects\HelloWorld\UITests\UITests.dll
 C:\Users\marius.bodea\documents\visual studio 2017\Projects\HelloWorld\UITests\UITests.pdb
 C:\Users\marius.bodea\documents\visual studio 2017\Projects\HelloWorld\UITests\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
@@ -14,12 +13,12 @@ C:\Users\marius.bodea\documents\visual studio 2017\Projects\HelloWorld\UITests\M
 C:\Users\marius.bodea\documents\visual studio 2017\Projects\HelloWorld\UITests\WebDriver.xml
 C:\Users\marius.bodea\documents\visual studio 2017\Projects\HelloWorld\UITests\WebDriver.Support.xml
 C:\Users\marius.bodea\Documents\Visual Studio 2017\Projects\HelloWorld\UITests\bin\Debug\chromedriver.exe
+C:\Users\marius.bodea\documents\visual studio 2017\Projects\HelloWorld\UITests\obj\Debug\UITests.csprojResolveAssemblyReference.cache
+C:\Users\marius.bodea\documents\visual studio 2017\Projects\HelloWorld\UITests\obj\Debug\UITests.dll
+C:\Users\marius.bodea\documents\visual studio 2017\Projects\HelloWorld\UITests\obj\Debug\UITests.pdb
 C:\Users\marius.bodea\documents\visual studio 2017\Projects\HelloWorld\UITests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
 C:\Users\marius.bodea\documents\visual studio 2017\Projects\HelloWorld\UITests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
 C:\Users\marius.bodea\documents\visual studio 2017\Projects\HelloWorld\UITests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
-C:\Users\marius.bodea\documents\visual studio 2017\Projects\HelloWorld\UITests\bin\Debug\Drivers\chromedriver.exe
-C:\Users\marius.bodea\documents\visual studio 2017\Projects\HelloWorld\UITests\bin\Debug\UITests.dll
-C:\Users\marius.bodea\documents\visual studio 2017\Projects\HelloWorld\UITests\bin\Debug\UITests.pdb
 C:\Users\marius.bodea\documents\visual studio 2017\Projects\HelloWorld\UITests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
 C:\Users\marius.bodea\documents\visual studio 2017\Projects\HelloWorld\UITests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
 C:\Users\marius.bodea\documents\visual studio 2017\Projects\HelloWorld\UITests\bin\Debug\WebDriver.dll
@@ -28,6 +27,6 @@ C:\Users\marius.bodea\documents\visual studio 2017\Projects\HelloWorld\UITests\b
 C:\Users\marius.bodea\documents\visual studio 2017\Projects\HelloWorld\UITests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
 C:\Users\marius.bodea\documents\visual studio 2017\Projects\HelloWorld\UITests\bin\Debug\WebDriver.xml
 C:\Users\marius.bodea\documents\visual studio 2017\Projects\HelloWorld\UITests\bin\Debug\WebDriver.Support.xml
-C:\Users\marius.bodea\documents\visual studio 2017\Projects\HelloWorld\UITests\obj\Debug\UITests.csprojResolveAssemblyReference.cache
-C:\Users\marius.bodea\documents\visual studio 2017\Projects\HelloWorld\UITests\obj\Debug\UITests.dll
-C:\Users\marius.bodea\documents\visual studio 2017\Projects\HelloWorld\UITests\obj\Debug\UITests.pdb
+C:\Users\marius.bodea\documents\visual studio 2017\Projects\HelloWorld\UITests\bin\Debug\UITests.dll
+C:\Users\marius.bodea\documents\visual studio 2017\Projects\HelloWorld\UITests\bin\Debug\UITests.pdb
+C:\Users\marius.bodea\Documents\Visual Studio 2017\Projects\HelloWorld\UITests\bin\Debug\Drivers\chromedriver.exe
