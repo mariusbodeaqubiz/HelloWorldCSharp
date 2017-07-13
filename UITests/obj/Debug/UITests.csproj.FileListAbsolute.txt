@@ -30,3 +30,21 @@ C:\Users\marius.bodea\documents\visual studio 2017\Projects\HelloWorld\UITests\b
 C:\Users\marius.bodea\documents\visual studio 2017\Projects\HelloWorld\UITests\bin\Debug\UITests.dll
 C:\Users\marius.bodea\documents\visual studio 2017\Projects\HelloWorld\UITests\bin\Debug\UITests.pdb
 C:\Users\marius.bodea\Documents\Visual Studio 2017\Projects\HelloWorld\UITests\bin\Debug\Drivers\chromedriver.exe
+D:\CSharpProjects\UiApiMobile\HelloWorldCSharp\UITests\bin\Debug\Drivers\chromedriver.exe
+D:\CSharpProjects\UiApiMobile\HelloWorldCSharp\UITests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\CSharpProjects\UiApiMobile\HelloWorldCSharp\UITests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\CSharpProjects\UiApiMobile\HelloWorldCSharp\UITests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\CSharpProjects\UiApiMobile\HelloWorldCSharp\UITests\bin\Debug\chromedriver.exe
+D:\CSharpProjects\UiApiMobile\HelloWorldCSharp\UITests\bin\Debug\UITests.dll
+D:\CSharpProjects\UiApiMobile\HelloWorldCSharp\UITests\bin\Debug\UITests.pdb
+D:\CSharpProjects\UiApiMobile\HelloWorldCSharp\UITests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\CSharpProjects\UiApiMobile\HelloWorldCSharp\UITests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\CSharpProjects\UiApiMobile\HelloWorldCSharp\UITests\bin\Debug\WebDriver.dll
+D:\CSharpProjects\UiApiMobile\HelloWorldCSharp\UITests\bin\Debug\WebDriver.Support.dll
+D:\CSharpProjects\UiApiMobile\HelloWorldCSharp\UITests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+D:\CSharpProjects\UiApiMobile\HelloWorldCSharp\UITests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+D:\CSharpProjects\UiApiMobile\HelloWorldCSharp\UITests\bin\Debug\WebDriver.xml
+D:\CSharpProjects\UiApiMobile\HelloWorldCSharp\UITests\bin\Debug\WebDriver.Support.xml
+D:\CSharpProjects\UiApiMobile\HelloWorldCSharp\UITests\obj\Debug\UITests.csprojResolveAssemblyReference.cache
+D:\CSharpProjects\UiApiMobile\HelloWorldCSharp\UITests\obj\Debug\UITests.dll
+D:\CSharpProjects\UiApiMobile\HelloWorldCSharp\UITests\obj\Debug\UITests.pdb

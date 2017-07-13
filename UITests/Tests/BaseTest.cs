@@ -32,7 +32,7 @@ namespace UITests.Tests
             var options = new ChromeOptions();
             options.AddArgument("--disable-extensions");
             options.AddArgument("--incognito");
-            _driver = new ChromeDriver("Drivers", options);
+            _driver = new ChromeDriver(@"C:\Drivers\", options);
 
             //_driver = new FirefoxDriver();
 

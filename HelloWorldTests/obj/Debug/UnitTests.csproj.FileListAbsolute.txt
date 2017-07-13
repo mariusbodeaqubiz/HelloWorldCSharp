@@ -1,0 +1,15 @@
+D:\CSharpProjects\UiApiMobile\HelloWorldCSharp\HelloWorldTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\CSharpProjects\UiApiMobile\HelloWorldCSharp\HelloWorldTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\CSharpProjects\UiApiMobile\HelloWorldCSharp\HelloWorldTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\CSharpProjects\UiApiMobile\HelloWorldCSharp\HelloWorldTests\bin\Debug\HelloWorldTests.dll
+D:\CSharpProjects\UiApiMobile\HelloWorldCSharp\HelloWorldTests\bin\Debug\HelloWorldTests.pdb
+D:\CSharpProjects\UiApiMobile\HelloWorldCSharp\HelloWorldTests\bin\Debug\HelloWorld.exe
+D:\CSharpProjects\UiApiMobile\HelloWorldCSharp\HelloWorldTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\CSharpProjects\UiApiMobile\HelloWorldCSharp\HelloWorldTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\CSharpProjects\UiApiMobile\HelloWorldCSharp\HelloWorldTests\bin\Debug\HelloWorld.pdb
+D:\CSharpProjects\UiApiMobile\HelloWorldCSharp\HelloWorldTests\bin\Debug\HelloWorld.exe.config
+D:\CSharpProjects\UiApiMobile\HelloWorldCSharp\HelloWorldTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+D:\CSharpProjects\UiApiMobile\HelloWorldCSharp\HelloWorldTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+D:\CSharpProjects\UiApiMobile\HelloWorldCSharp\HelloWorldTests\obj\Debug\UnitTests.csprojResolveAssemblyReference.cache
+D:\CSharpProjects\UiApiMobile\HelloWorldCSharp\HelloWorldTests\obj\Debug\HelloWorldTests.dll
+D:\CSharpProjects\UiApiMobile\HelloWorldCSharp\HelloWorldTests\obj\Debug\HelloWorldTests.pdb

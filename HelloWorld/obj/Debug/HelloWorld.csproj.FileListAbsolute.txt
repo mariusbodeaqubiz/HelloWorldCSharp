@@ -4,3 +4,9 @@ C:\Users\marius.bodea\Documents\Visual Studio 2017\Projects\HelloWorld\HelloWorl
 C:\Users\marius.bodea\Documents\Visual Studio 2017\Projects\HelloWorld\HelloWorld\obj\Debug\HelloWorld.csprojResolveAssemblyReference.cache
 C:\Users\marius.bodea\Documents\Visual Studio 2017\Projects\HelloWorld\HelloWorld\obj\Debug\HelloWorld.exe
 C:\Users\marius.bodea\Documents\Visual Studio 2017\Projects\HelloWorld\HelloWorld\obj\Debug\HelloWorld.pdb
+D:\CSharpProjects\UiApiMobile\HelloWorldCSharp\HelloWorld\bin\Debug\HelloWorld.exe.config
+D:\CSharpProjects\UiApiMobile\HelloWorldCSharp\HelloWorld\bin\Debug\HelloWorld.exe
+D:\CSharpProjects\UiApiMobile\HelloWorldCSharp\HelloWorld\bin\Debug\HelloWorld.pdb
+D:\CSharpProjects\UiApiMobile\HelloWorldCSharp\HelloWorld\obj\Debug\HelloWorld.csprojResolveAssemblyReference.cache
+D:\CSharpProjects\UiApiMobile\HelloWorldCSharp\HelloWorld\obj\Debug\HelloWorld.exe
+D:\CSharpProjects\UiApiMobile\HelloWorldCSharp\HelloWorld\obj\Debug\HelloWorld.pdb
